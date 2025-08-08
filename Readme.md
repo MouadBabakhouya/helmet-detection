@@ -1,7 +1,7 @@
-<h1 align="center">🚦 AI-Powered Traffic Violation Detection System</h1>
+<h1 align="center"> AI-Powered Helmet Violation Detection System</h1>
 
 <p align="center">
-  Detect helmet violations, read license plates, and log traffic offenses automatically — all powered by AI.
+  An advanced AI system that detects motorcycle helmet violations, recognizes license plates, and logs offenses automatically for enhanced road safety.
 </p>
 
 <p align="center">
